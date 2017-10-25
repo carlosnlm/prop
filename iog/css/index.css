@@ -1099,7 +1099,7 @@
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter:alpha(opacity=100);
 	padding-bottom:0px;
-	background:transparent url("../images/background_blue_full_op2-01.png?crc=59385295") no-repeat center top;
+	background:;
 }
 
 #u103_align_to_page{
