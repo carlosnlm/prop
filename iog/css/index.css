@@ -20,6 +20,15 @@
 	background-color:rgba(0,0,0,0.55);
 }
 
+
+
+#uMapa{
+	max-width: 100%;
+	display: block;
+    margin-top: 9%;
+	margin-left: 29%;
+}
+
 #u94{
 	z-index:32;
 	height:5000px;
@@ -1223,7 +1232,7 @@
 	color:#FFFFFF;
 	text-align:center;
 	position:relative;
-	margin-right:-10000px;
+	margin-right: 1000px;
 	margin-top:68px;
 	left:41px;
 }
@@ -1350,6 +1359,14 @@
 
 #u589{
 	z-index:123;
+	width:144px;
+	background-color:transparent;
+	position:relative;
+	margin-right:-10000px;
+}
+
+#u589_img{
+	z-index:124;
 	width:144px;
 	background-color:transparent;
 	position:relative;
@@ -1782,6 +1799,13 @@
 }
 
 #u1516-4,#u1519-4,#u1522-4,#u339-4,#u588-4,#u672-4,#u763-4{
+	font-size:12px;
+	line-height:14px;
+	font-family:lato, sans-serif;
+	font-weight:400;
+}
+
+#u339-5{
 	font-size:12px;
 	line-height:14px;
 	font-family:lato, sans-serif;
